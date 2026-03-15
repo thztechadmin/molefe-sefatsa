@@ -47,7 +47,7 @@ The platform operates as a **multi-tenant SaaS environment** where each organisa
 
 Track My Tenders is designed using a **cloud-native SaaS architecture**.
 
-  
+  ![Platform Architecture](stack.drawio.png)
 
 Core architectural principles:
 
@@ -281,7 +281,7 @@ These systems provide:
 # 🌍 Connect
 
 Website  
-https://www.thehubzatech.co.za
+https://www.hubzatech.com
 
 ---
 
